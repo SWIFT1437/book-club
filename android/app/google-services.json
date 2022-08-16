@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1042440033670",
+    "firebase_url": "https://book-club-69e07.firebaseio.com",
+    "project_id": "book-club-69e07",
+    "storage_bucket": "book-club-69e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042440033670:android:abc68d8eb0543973918807",
+        "android_client_info": {
+          "package_name": "com.example.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042440033670-nig0i62f9n6uvf7fm2sdjpb18o5s493v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJhH2ZpGqt5qAz8nMGNAlYTN7DdBFArJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042440033670-nig0i62f9n6uvf7fm2sdjpb18o5s493v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042440033670:android:a2b5d1e01c5fba7c918807",
+        "android_client_info": {
+          "package_name": "com.ishaansingh.book_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042440033670-nig0i62f9n6uvf7fm2sdjpb18o5s493v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJhH2ZpGqt5qAz8nMGNAlYTN7DdBFArJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042440033670-nig0i62f9n6uvf7fm2sdjpb18o5s493v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042440033670:android:d2b775aeed139439918807",
+        "android_client_info": {
+          "package_name": "com.tutorial.ishaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042440033670-nig0i62f9n6uvf7fm2sdjpb18o5s493v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJhH2ZpGqt5qAz8nMGNAlYTN7DdBFArJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042440033670-nig0i62f9n6uvf7fm2sdjpb18o5s493v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
